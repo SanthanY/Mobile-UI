@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+  }
+  .main {
+    margin: 2%;
+    font-family: 'Raleway', sans-serif;
+  }
+  footer {
+    width: 100%;
+    height: 44px;
+    border-top: 1px solid #eaeaea;
+    position: fixed;
+    bottom: 0px;
+  }
+  footer .one {
+    width: 20%;
+    height: 44px;
+    background-color: #4b5671;
+    float: left;
+    text-align: center;
+    padding-top: 14px;
+  }
+  footer .one i {
+    color: white;
+    font-size: 20px;
+  }
+  footer .two {
+    width: 20%;
+    height: 40px;
+    background-color: #85a3b8;
+    float: left;
+    text-align: center;
+    padding-top: 14px;
+  }
+  footer .two i {
+    color: white;
+    font-size: 20px;
+  }
+  footer .three {
+    width: 20%;
+    height: 40px;
+    background-color: #3b6a83;
+    float: left;
+    text-align: center;
+    padding-top: 14px;
+  }
+  footer .three i {
+    color: white;
+    font-size: 20px;
+  }
+  footer .four {
+    width: 20%;
+    height: 40px;
+    background-color: #54a254;
+    float: left;
+    text-align: center;
+    padding-top: 14px;
+  }
+  footer .four span {
+    color: white;
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+  }
+  footer .five {
+    width: 20%;
+    height: 40px;
+    background-color: #fff;
+    float: left;
+    text-align: center;
+    padding-top: 13px;
+  }
+  footer .five i {
+    color: #8e8e8e;
+    font-size: 20px;
+  }
+  footer:hover {
+    cursor: pointer;
+  }
